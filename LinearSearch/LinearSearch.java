@@ -10,7 +10,7 @@ public class LinearSearch {
       int item=sc.nextInt();
       int ans=getItemIndex(arr, item);
       if(ans==ans){
-        System.out.println("Element found at index "+ans);
+        System.out.println("Element found at index [number]"+ans);
       }
       else{
         System.out.println("Element Not Found");
